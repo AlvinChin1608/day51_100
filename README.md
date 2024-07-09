@@ -13,7 +13,7 @@ This project is an automated bot that tests your internet speed using the Speedt
 3. Logging into your Twitter account.
 4. Composing and posting a tweet with the extracted speed test results.
 
-Demo
+## Demo
 
 ![](https://github.com/AlvinChin1608/day51_100/blob/main/Demo.gif)
 
