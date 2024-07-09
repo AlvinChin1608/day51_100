@@ -29,7 +29,7 @@ Working on this project, I gained valuable experience in the following areas:
   - Conducting iterative testing and debugging to resolve issues with element selection and interaction.
   - Exploring various element selection techniques including CSS selectors, XPath, and tag names.
 
-## Challenges and Current Issues
+## Challenges and Current Issues ⚠️
 Despite extensive testing and the use of multiple element selection techniques (CSS selectors, XPath, etc.), the bot occasionally encounters issues with composing and sending tweets. Specifically, the bot sometimes fails to interact with the tweet composition elements, resulting in an incomplete automation process.
 
 ## Next Steps
