@@ -13,10 +13,6 @@ This project is an automated bot that tests your internet speed using the Speedt
 3. Logging into your Twitter account.
 4. Composing and posting a tweet with the extracted speed test results.
 
-## Demo
-
-![](https://github.com/AlvinChin1608/day51_100/blob/main/Demo.gif)
-
 ## What I Learned
 Working on this project, I gained valuable experience in the following areas:
 
@@ -31,6 +27,10 @@ Working on this project, I gained valuable experience in the following areas:
 
 ## Challenges and Current Issues ⚠️
 Despite extensive testing and the use of multiple element selection techniques (CSS selectors, XPath, etc.), the bot occasionally encounters issues with composing and sending tweets. Specifically, the bot sometimes fails to interact with the tweet composition elements, resulting in an incomplete automation process.
+
+## Demo
+
+![](https://github.com/AlvinChin1608/day51_100/blob/main/Demo.gif)
 
 ## Next Steps
 To further improve the reliability of the bot, the following steps could be taken:
