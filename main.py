@@ -92,9 +92,11 @@ class InternetSpeedTwitterBot:
         time.sleep(15)
 
         # Compose the tweet
-        """Issue: I have some issue composing the tweet. XPATH, CSS selection not working.. 
-        If you're seeing my code, and know how to fix please leave a comment. Thanks
+       """
+        Issue: There are issues with composing the tweet. Both XPATH and CSS selectors are not functioning as expected.
+        If you are reviewing my code and have any suggestions or solutions, please leave a comment. Thanks!
         """
+
         message = f"Ignore. This is an internet speed report bot. Download Speed: {self.down} Mbps, Upload Speed: {self.up} Mbps."
 
         try:
