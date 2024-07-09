@@ -12,8 +12,8 @@ load_dotenv("./vars/.env")
 
 YOUR_EMAIL = os.getenv("X_EMAIL")
 YOUR_PASSWORD = os.getenv("X_PASS")
-PROMISED_DOWN = 100
-PROMISED_UP = 30
+# PROMISED_DOWN = 100
+# PROMISED_UP = 30
 
 
 class InternetSpeedTwitterBot:
